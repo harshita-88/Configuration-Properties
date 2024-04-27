@@ -10,12 +10,5 @@ spring:
     admin:
       client:
         url: "http://localhost:9090/"
-  datasource:
-    password: Ajmer@123
-    url: jdbc:mysql://localhost:3306/test
-    username: root
-  jpa:
-    hibernate:
-      ddl-auto: update
-    show-sql: true
+
 
